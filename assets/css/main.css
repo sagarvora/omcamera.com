@@ -3986,3 +3986,18 @@
 			opacity: 1;
 			visibility: visible;
 		}
+
+
+
+	/* Custom Styling */
+
+	#people {
+		padding: 2em !important;
+	}
+
+	#people section {
+		height: 50%;
+		padding: 2em;
+		position: relative;
+		text-align: right;
+	}
